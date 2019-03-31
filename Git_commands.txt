@@ -1,0 +1,13 @@
+1) Create new local git repo:
+   > mkdir learn_Git
+   > cd learn_Git
+   > git init
+
+2) check the status
+   > git status
+
+3) add files to staging
+  > git add .  #dor means all file, we can add specific files also ex: git add file1,file2
+
+4) commit files to local repo
+  > git commit -m "adding initial file"
